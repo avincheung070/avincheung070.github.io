@@ -1,4 +1,5 @@
 {
+  "easterEggRoles": ["現役騎空士","現役訓練員","退役亞瑟","退役騎士君","退役紅髮路人","退役御主","退役老師","決鬥者"],
   "vcard": {
     "firstName": "Avin",
     "lastName": "",
@@ -6,8 +7,7 @@
     "company": "",
     "email": "avincheung070@gmail.com",
     "phone": "+852 93576132",
-    "linkedin": "https://linkedin.com/in/yourprofile",
-    "website": "https://yoursite.com",
+    "website": "https://avincheung070.github.io/",
     "note": "Full-Stack Developer | 5+ yrs | AI Integration"
   },
   "en": {
@@ -30,7 +30,7 @@
     "about": {
       "title": "About Me",
       "p1": "I'm Avin — a full-stack web developer with 5+ years of experience, primarily at BIGAZINES building CMS platforms, e-commerce sites, enterprise websites, and internal systems.",
-      "p2": "What I do best is \"deliver independently\": from requirements gathering, wireframing, coding, deployment, to ongoing maintenance — I handle the full cycle. Even with unfamiliar frameworks or undocumented legacy projects, I ramp up fast and deliver working features within 2–4 weeks.",
+      "p2": "What I do best is \"deliver independently\": from requirements gathering, wireframing, coding, deployment, to ongoing maintenance — I handle the full cycle. I also enjoy working with colleagues — programmers are stronger together. Even with unfamiliar frameworks or undocumented legacy projects, I ramp up fast and deliver working features within 2–4 weeks.",
       "p3": "I'm particularly strong at leveraging AI tools to rapidly deliver prototypes and production-ready systems — using LLMs for code generation, content creation, automated testing, and workflow automation. This approach lets me ship MVPs in days instead of weeks, and has significantly improved both development speed and quality.",
       "p4": "Beyond coding, I frequently take on PM duties: coordinating with colleagues and clients, managing timelines, handling risks, and ensuring deliverables actually move the business forward.",
       "p5": "I love turning complex requirements into clean, usable systems — and there's nothing quite like seeing clients actually use something I built.",
@@ -49,11 +49,11 @@
       "period": "Nov 2020 – Jan 2026 · 5 yrs 2 mos",
       "location": "Hong Kong",
       "bullets": [
-        "Independently developed, deployed, and maintained multiple websites/systems across different frameworks (.NET C#, PHP, Node.js, Python, etc.)",
-        "Rapidly learned and delivered complete features with zero prior knowledge or documentation — rescued multiple urgent projects",
+        "Independently developed, deployed, and maintained 20+ websites/systems across different frameworks (.NET C#, PHP, Node.js, Python, etc.)",
+        "Rapidly learned and delivered complete features with zero prior knowledge or documentation",
         "Served as PM: communicated with clients, designers, and operations teams to define scope, track progress, handle changes, and ensure business alignment",
         "Managed cloud deployments (AWS, Azure, Hostinger, Cloudways) maintaining high availability and security",
-        "Leveraged AI tools to rapidly prototype and deliver production systems — code generation, content assistance, test automation — saving the team 20–30% on repetitive work"
+        "Leveraged AI tools to rapidly prototype and deliver production systems — code generation, content assistance, test automation — saving the team significant time on repetitive work"
       ]
     },
     "stack": {
@@ -86,20 +86,14 @@
         {
           "type": "email",
           "label": "Email",
-          "value": "your@email.com",
-          "href": "mailto:your@email.com"
-        },
-        {
-          "type": "linkedin",
-          "label": "LinkedIn",
-          "value": "linkedin.com/in/yourprofile",
-          "href": "https://linkedin.com/in/yourprofile"
+          "value": "avincheung070@gmail.com",
+          "href": "mailto:avincheung070@gmail.com"
         },
         {
           "type": "whatsapp",
           "label": "WhatsApp",
-          "value": "+852 1234 5678",
-          "href": "https://wa.me/85212345678"
+          "value": "+852 93576132",
+          "href": "https://wa.me/85293576132"
         }
       ]
     }
@@ -174,6 +168,7 @@
       "title": "聯絡我",
       "subtitle": "有興趣合作或想看更多專案細節？",
       "cta": "歡迎隨時聯絡我～",
+      "dontpressavin":"不要按紫色的Avin...",
       "email": "電郵",
       "saveContact": "儲存到通訊錄",
       "links": [

@@ -129,7 +129,7 @@ function ProjectModal({
           {/* LEFT: Gallery — 50% */}
           <div className="w-full md:w-1/2 flex flex-col min-w-0 border-r-0 md:border-r border-white/5">
             {/* Big preview */}
-            <div className="relative p-4 md:p-5 min-h-[250px] md:min-h-[320px] flex-1">
+            <div className="relative p-4 md:p-5 flex-1">
               <AnimatePresence mode="wait">
                 <motion.div
                   key={activeSlide}
@@ -137,7 +137,7 @@ function ProjectModal({
                   animate={{ opacity: 1, scale: 1 }}
                   exit={{ opacity: 0, scale: 0.96 }}
                   transition={{ duration: 0.25 }}
-                  className="w-full h-full relative rounded-xl overflow-hidden bg-black/30"
+                  className="w-full relative rounded-xl overflow-hidden bg-black/30 aspect-video"
                 >
                   <Image
                     src={gallery[activeSlide].image}

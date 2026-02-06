@@ -39,7 +39,6 @@ function generateVCard() {
     v.email ? `EMAIL;TYPE=INTERNET:${v.email}` : "",
     v.phone ? `TEL;TYPE=CELL:${v.phone}` : "",
     v.website ? `URL:${v.website}` : "",
-    v.linkedin ? `X-SOCIALPROFILE;TYPE=linkedin:${v.linkedin}` : "",
     v.note ? `NOTE:${v.note}` : "",
     "END:VCARD",
   ]
@@ -86,6 +85,16 @@ export default function Contact() {
         >
           {t.contact.cta}
         </motion.p>
+        <motion.p
+          initial={{ opacity: 0, y: 15 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5, delay: 0.15 }}
+          className="text-white text-sm mb-10"
+        >
+          {t.contact.dontpressavin}
+        </motion.p>
+
 
         {/* Save to Contacts — vCard button */}
         <motion.div
