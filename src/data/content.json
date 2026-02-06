@@ -25,7 +25,6 @@
       "tagline": "5+ years shipping web apps end-to-end — from requirements to production.",
       "description": "Full-stack dev · Cloud deployment · AI integration · Project management. Looking to join a team that values technical depth and real business impact.",
       "cta": "View Projects",
-      "dontpressavin":"",
       "contact": "Get in Touch"
     },
     "about": {
@@ -81,6 +80,7 @@
       "title": "Get in Touch",
       "subtitle": "Interested in collaborating, discussing a role, or want to see more project details?",
       "cta": "Feel free to reach out anytime!",
+      "dontpressavin": "",
       "email": "Email",
       "saveContact": "Save to Contacts",
       "links": [
