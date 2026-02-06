@@ -85,15 +85,17 @@ export default function Contact() {
         >
           {t.contact.cta}
         </motion.p>
-        <motion.p
+        <motion.button
+          type="button"
           initial={{ opacity: 0, y: 15 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.15 }}
-          className="text-white text-sm mb-10"
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          className="text-white/60 hover:text-white text-sm mb-10 cursor-pointer underline decoration-white/30 hover:decoration-white/60 transition-colors"
         >
           {t.contact.dontpressavin}
-        </motion.p>
+        </motion.button>
 
 
         {/* Save to Contacts — vCard button */}
