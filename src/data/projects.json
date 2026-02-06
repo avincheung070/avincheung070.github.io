@@ -1,0 +1,158 @@
+{
+  "projects": [
+    {
+      "id": "starfish-id",
+      "icon": "CreditCard",
+      "accent": "from-emerald-500 to-cyan-500",
+      "accentBg": "bg-emerald-500/10",
+      "accentText": "text-emerald-400",
+      "glowColor": "rgba(52,211,153,0.5)",
+      "accentHex": "#34d399",
+      "en": {
+        "title": "Starfish ID",
+        "subtitle": "Digital Eco-Friendly Business Card Platform",
+        "url": "https://starfishid.com/",
+        "description": "Built from scratch — a digital business card system with eco-friendly approach, pushing vCards directly to phone contacts.",
+        "features": "Employee dashboard (CRUD, import), bilingual EN/ZH, photo upload, QR code generation.",
+        "role": "Solo full-stack dev + deployment + maintenance + internal coordination.",
+        "result": "Actively used by the company and select clients, replacing paper business cards. Stable in production."
+      },
+      "zh": {
+        "title": "Starfish ID",
+        "subtitle": "數位環保名片平台",
+        "url": "https://starfishid.com/",
+        "description": "自家從零開發的數位名片系統，eco-friendly 方向，可直推 vCard 到手機聯絡人。",
+        "features": "員工後台管理（新增/編輯/搜尋/匯入）、中英雙語、照片上傳、QR code 生成。",
+        "role": "獨立全端開發 + 部署 + 維護 + 內部需求協調。",
+        "result": "公司內部及部分客戶已在使用，取代紙本名片，穩定運行中。"
+      },
+      "gallery": [
+        { "image": "/project/StarfishId/content (2).png", "label": "Dashboard" },
+        { "image": "/project/StarfishId/content (3).png", "label": "Employee Management" },
+        { "image": "/project/StarfishId/Snipaste_2026-02-06_16-43-52.png", "label": "vCard Preview" }
+      ]
+    },
+    {
+      "id": "luxury-gateway",
+      "icon": "Globe",
+      "accent": "from-blue-500 to-indigo-500",
+      "accentBg": "bg-blue-500/10",
+      "accentText": "text-blue-400",
+      "glowColor": "rgba(96,165,250,0.5)",
+      "accentHex": "#60a5fa",
+      "en": {
+        "title": "Luxury Gateway Ltd",
+        "subtitle": "Premium Limousine Service Website",
+        "url": "https://luxurygatewayltd.com/",
+        "description": "High-end limousine service website with booking forms, region-based auto-pricing, and Stripe payments.",
+        "features": "",
+        "role": "Multiple rounds of client communication, full-stack dev, payment logic, deployment, PM ensuring delivery matches business goals.",
+        "result": "After launch, clients can book and pay online directly — streamlined the entire business workflow."
+      },
+      "zh": {
+        "title": "Luxury Gateway Ltd",
+        "subtitle": "豪華禮車服務網站",
+        "url": "https://luxurygatewayltd.com/",
+        "description": "高端禮車服務企業網站，整合預約表單、按地區自動計價、Stripe 支付。",
+        "features": "",
+        "role": "多次跟客戶溝通需求、全端開發、支付邏輯處理、上線維護，當 PM 確保交付 match 業務目標。",
+        "result": "網站上線後，客戶可直接線上接單與收款，業務流程順暢許多。"
+      },
+      "gallery": [
+        { "image": "/project/Luxuary/Snipaste_2026-02-06_16-47-35.png", "label": "Homepage" },
+        { "image": "/project/Luxuary/Snipaste_2026-02-06_16-47-59.png", "label": "Booking & Payment" }
+      ]
+    },
+    {
+      "id": "yata",
+      "icon": "ShoppingBag",
+      "accent": "from-amber-500 to-orange-500",
+      "accentBg": "bg-amber-500/10",
+      "accentText": "text-amber-400",
+      "glowColor": "rgba(251,191,36,0.5)",
+      "accentHex": "#fbbf24",
+      "en": {
+        "title": "YATA Official Website + CMS",
+        "subtitle": "1000+ Content Pages · Custom CMS",
+        "url": "https://yata.hk/",
+        "description": "First major project — over 1000+ content pages (recipes, lifestyle guides, product recommendations, eShop links).",
+        "features": "",
+        "role": "Requirements gathering, custom CMS build, backend management, early bug fixes, SEO optimization, long-term maintenance.",
+        "result": "Client can self-manage content. Website traffic and user experience significantly improved."
+      },
+      "zh": {
+        "title": "YATA 一田官方網站 + CMS",
+        "subtitle": "超過 1000+ 內容頁 · 自訂 CMS",
+        "url": "https://yata.hk/",
+        "description": "第一個大 project，超過 1000+ 內容頁（食譜、生活攻略、商品推薦、eShop 連結）。",
+        "features": "",
+        "role": "從需求溝通、建自訂 CMS、後台管理、修正早期 bug、SEO 優化，到上線後長期維護。",
+        "result": "客戶可自行更新內容，網站流量與使用者體驗大幅提升。"
+      },
+      "gallery": [
+        { "image": "/project/Yata/Snipaste_2026-02-06_16-45-56.png", "label": "Homepage" },
+        { "image": "/project/Yata/Snipaste_2026-02-06_16-46-57.png", "label": "Content Page" }
+      ]
+    },
+    {
+      "id": "graff-diamonds",
+      "icon": "Gem",
+      "accent": "from-violet-500 to-fuchsia-500",
+      "accentBg": "bg-violet-500/10",
+      "accentText": "text-violet-400",
+      "glowColor": "rgba(167,139,250,0.5)",
+      "accentHex": "#a78bfa",
+      "en": {
+        "title": "GRAFF Diamonds Internal System",
+        "subtitle": "Repair & Stock Movement Dashboard",
+        "url": "",
+        "description": "AI-assisted internal system for a luxury jewelry brand — repair request tracking + stock movement dashboard.",
+        "features": "Bilingual EN/ZH, Create Repair Request, Create Stock Movement, Master Data management.",
+        "role": "Full-stack dev + AI tool integration (code/logic assistance) + PM coordination with client.",
+        "result": "Improved daily operations efficiency, reduced manual errors and tracking time. Stable in production."
+      },
+      "zh": {
+        "title": "GRAFF Diamonds 內部管理系統",
+        "subtitle": "維修單 + 庫存調撥 Dashboard",
+        "url": "",
+        "description": "用 AI 輔助完成的小型 project，為高端珠寶品牌建維修單 + 庫存調撥 dashboard。",
+        "features": "中英雙語、Create Repair Request、Create Stock Movement、Master Data 管理。",
+        "role": "全端開發 + AI 工具整合（輔助 code / 邏輯設計） + PM 協調客戶需求。",
+        "result": "員工日常操作更高效，減少手動錯誤與追蹤時間，系統穩定運行中。"
+      },
+      "gallery": [
+        { "image": "/project/GRAFF/content (1).png", "label": "Dashboard" }
+      ]
+    },
+    {
+      "id": "booth-design-3d",
+      "icon": "Box",
+      "accent": "from-rose-500 to-pink-500",
+      "accentBg": "bg-rose-500/10",
+      "accentText": "text-rose-400",
+      "glowColor": "rgba(251,113,133,0.5)",
+      "accentHex": "#fb7185",
+      "en": {
+        "title": "Booth Design 3D Preview",
+        "subtitle": "Interactive 3D Booth Visualization Tool",
+        "url": "",
+        "description": "3D booth preview system supporting multiple slides, custom dimensions (e.g. 300×250 cm), background colors, 3D perspective switching, split/2D/3D modes.",
+        "features": "",
+        "role": "Solo development of 3D interface, interaction logic, and export functionality (Export Slide / Export All).",
+        "result": "Helped clients/teams quickly visualize booth designs, saving communication costs before physical setup."
+      },
+      "zh": {
+        "title": "Booth Design 3D Preview",
+        "subtitle": "展位 3D 互動預覽工具",
+        "url": "",
+        "description": "展位 / 攤位 3D 預覽系統，支援多 slide、尺寸自訂（例如 300×250 cm）、背景顏色、3D 視角切換、split / 2D / 3D 模式。",
+        "features": "",
+        "role": "獨立開發 3D 介面與互動邏輯、匯出功能（Export Slide / Export All）。",
+        "result": "幫助客戶 / 團隊快速視覺化攤位設計，節省實際搭建前的溝通成本。"
+      },
+      "gallery": [
+        { "image": "/project/EasyBoothDesign/content.png", "label": "3D Preview" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "vcard": {
+    "firstName": "Avin",
+    "lastName": "",
+    "title": "Full-Stack Developer",
+    "company": "",
+    "email": "avincheung070@gmail.com",
+    "phone": "+852 93576132",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "website": "https://yoursite.com",
+    "note": "Full-Stack Developer | 5+ yrs | AI Integration"
+  },
+  "en": {
+    "nav": {
+      "about": "About",
+      "experience": "Experience",
+      "stack": "Tech Stack",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Hi, I'm",
+      "name": "Avin",
+      "role": "Full-Stack Developer",
+      "tagline": "5+ years shipping web apps end-to-end — from requirements to production.",
+      "description": "Full-stack dev · Cloud deployment · AI integration · Project management. Looking to join a team that values technical depth and real business impact.",
+      "cta": "View Projects",
+      "contact": "Get in Touch"
+    },
+    "about": {
+      "title": "About Me",
+      "p1": "I'm Avin — a full-stack web developer with 5+ years of experience, primarily at BIGAZINES building CMS platforms, e-commerce sites, enterprise websites, and internal systems.",
+      "p2": "What I do best is \"deliver independently\": from requirements gathering, wireframing, coding, deployment, to ongoing maintenance — I handle the full cycle. Even with unfamiliar frameworks or undocumented legacy projects, I ramp up fast and deliver working features within 2–4 weeks.",
+      "p3": "I'm particularly strong at leveraging AI tools to rapidly deliver prototypes and production-ready systems — using LLMs for code generation, content creation, automated testing, and workflow automation. This approach lets me ship MVPs in days instead of weeks, and has significantly improved both development speed and quality.",
+      "p4": "Beyond coding, I frequently take on PM duties: coordinating with colleagues and clients, managing timelines, handling risks, and ensuring deliverables actually move the business forward.",
+      "p5": "I love turning complex requirements into clean, usable systems — and there's nothing quite like seeing clients actually use something I built.",
+      "languages": "Languages",
+      "lang_cantonese": "Cantonese",
+      "lang_mandarin": "Mandarin",
+      "lang_english": "English",
+      "lang_japanese": "Japanese",
+      "lang_speak": "Speak / Read / Write",
+      "lang_listen": "Read / Listen (Self-taught)"
+    },
+    "experience": {
+      "title": "Experience",
+      "role": "Full-Stack Web Developer & Project Coordinator",
+      "company": "BIGAZINES (宏傳顧問有限公司)",
+      "period": "Nov 2020 – Jan 2026 · 5 yrs 2 mos",
+      "location": "Hong Kong",
+      "bullets": [
+        "Independently developed, deployed, and maintained multiple websites/systems across different frameworks (.NET C#, PHP, Node.js, Python, etc.)",
+        "Rapidly learned and delivered complete features with zero prior knowledge or documentation — rescued multiple urgent projects",
+        "Served as PM: communicated with clients, designers, and operations teams to define scope, track progress, handle changes, and ensure business alignment",
+        "Managed cloud deployments (AWS, Azure, Hostinger, Cloudways) maintaining high availability and security",
+        "Leveraged AI tools to rapidly prototype and deliver production systems — code generation, content assistance, test automation — saving the team 20–30% on repetitive work"
+      ]
+    },
+    "stack": {
+      "title": "Tech Stack",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Database",
+      "cloud": "Cloud & Deploy",
+      "other": "Other",
+      "other_items": [
+        "Fast Learner",
+        "AI-Powered Rapid Prototyping",
+        "AI Integration & Workflow",
+        "Full-Stack Solo Delivery",
+        "PM & Coordination"
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "viewSite": "Visit Site →",
+      "viewDetails": "Details →"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Interested in collaborating, discussing a role, or want to see more project details?",
+      "cta": "Feel free to reach out anytime!",
+      "email": "Email",
+      "saveContact": "Save to Contacts",
+      "links": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "your@email.com",
+          "href": "mailto:your@email.com"
+        },
+        {
+          "type": "linkedin",
+          "label": "LinkedIn",
+          "value": "linkedin.com/in/yourprofile",
+          "href": "https://linkedin.com/in/yourprofile"
+        },
+        {
+          "type": "whatsapp",
+          "label": "WhatsApp",
+          "value": "+852 1234 5678",
+          "href": "https://wa.me/85212345678"
+        }
+      ]
+    }
+  },
+  "zh": {
+    "nav": {
+      "about": "關於我",
+      "experience": "工作經歷",
+      "stack": "技術棧",
+      "projects": "專案展示",
+      "contact": "聯絡我"
+    },
+    "hero": {
+      "greeting": "Hi，我是",
+      "name": "Avin",
+      "role": "全端開發者",
+      "tagline": "5+ 年獨立交付網頁應用，從需求到上線。",
+      "description": "擅長全端開發、雲端部署、AI 工具整合，還能當 PM 帶專案。目標：加入重視技術深度與業務影響的團隊，一起做出真正有用的東西。",
+      "cta": "看我的專案",
+      "contact": "聯絡我"
+    },
+    "about": {
+      "title": "關於我",
+      "p1": "我是 Avin，一位有超過 5 年全端網頁開發經驗的開發者，主力在 BIGAZINES 做各種 CMS、電商、企業網站跟內部系統。",
+      "p2": "我最擅長的是「獨立完成」：從跟客戶 / 團隊從傾需求、flow design、寫 code、部署上線，到後續維護，全流程自己搞掂。當然也擅長和喜歡與同事合作。Programmer 一起 強大 不用多言",
+      "p3": "特別擅長運用 AI 工具快速交付 Prototype 與正式系統——用 LLM 輔助寫 code、生成內容、自動化測試跟 workflow，可以幾日內出 MVP，開發速度跟品質都大幅提升。",
+      "p4": "除了技術，我也常當 小PM 角色：協調同事、客戶，排進度，確保交付的 Project 真的幫到手。",
+      "p5": "喜歡把複雜需求變成簡單好用的系統，也享受看到客戶樂於使用我做的東西。",
+      "languages": "語言能力",
+      "lang_cantonese": "粵語",
+      "lang_mandarin": "普通話",
+      "lang_english": "英文",
+      "lang_japanese": "日文",
+      "lang_speak": "聽說讀寫",
+      "lang_listen": "讀、聽（自學，無證明）"
+    },
+    "experience": {
+      "title": "工作經歷",
+      "role": "Full-Stack Web Developer & Project Coordinator",
+      "company": "BIGAZINES（宏傳顧問有限公司）",
+      "period": "2020年11月 – 2026年1月 · 5 年 2 個月",
+      "location": "香港",
+      "bullets": [
+        "獨立負責二十多個不同框架網站 / 系統的開發、上線與長期維護（.NET C#、PHP、Node.js、Python 等）",
+        "在沒知識基礎的情況下，快速學習並交付完整功能",
+        "擔任 PM 角色，與客戶、設計、營運團隊溝通需求、定義範圍、追蹤進度、處理變更，確保專案符合業務目標",
+        "管理雲端部署（AWS、Azure、Hostinger、Cloudways），維持高可用性與安全性",
+        "擅長運用 AI 工具快速交付 Prototype 與正式系統——程式碼生成、內容輔助、測試自動化，節省團隊大量重複工作時間"
+      ]
+    },
+    "stack": {
+      "title": "技術棧",
+      "frontend": "前端",
+      "backend": "後端",
+      "database": "資料庫",
+      "cloud": "雲端 & 部署",
+      "other": "其他",
+      "other_items": [
+        "快速學習新框架",
+        "AI 快速交付 Prototype",
+        "AI 工具整合 & Workflow",
+        "全端獨立交付",
+        "PM 協調"
+      ]
+    },
+    "projects": {
+      "title": "專案展示",
+      "viewSite": "前往網站 →",
+      "viewDetails": "了解更多 →"
+    },
+    "contact": {
+      "title": "聯絡我",
+      "subtitle": "有興趣合作或想看更多專案細節？",
+      "cta": "歡迎隨時聯絡我～",
+      "email": "電郵",
+      "saveContact": "儲存到通訊錄",
+      "links": [
+        {
+          "type": "email",
+          "label": "電郵",
+          "value": "avincheung070@gmail.com",
+          "href": "mailto:avincheung070@gmail.com"
+        },
+        {
+          "type": "whatsapp",
+          "label": "WhatsApp",
+          "value": "+852 93576132",
+          "href": "https://wa.me/85293576132"
+        }
+      ]
+    }
+  }
+}
